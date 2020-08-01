@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Maintable Python
+title: Maintainable Python
 email: eugene.gildin@yandex.ru
 description: >- # this means to ignore newlines until "baseurl:"
   Улучшаем качество Вашего python кода, делаем devops штуки и наслаждаемся результатом вместе.
