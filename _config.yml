@@ -35,6 +35,8 @@ plugins:
   - jekyll-feed
 
 # disqus settings
+disqus:
+  shortname: roch1990
 
 
 # Exclude from processing.

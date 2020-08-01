@@ -128,7 +128,3 @@ comments: true
 Всем мир и огнетушителей. Я не тролль :)
 
 P.S.: Ах да, забыл привести вам моё [вдохновение](https://youtu.be/99mU1gSLbkU).
-
-{% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
-{% endif %}
