@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Parser или NewParser - вот в чем вопрос"
 date:   2020-07-29
 categories: post
