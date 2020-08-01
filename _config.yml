@@ -23,7 +23,7 @@ email: eugene.gildin@yandex.ru
 description: >- # this means to ignore newlines until "baseurl:"
   Улучшаем качество Вашего python кода, делаем devops штуки и наслаждаемся результатом вместе.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://roch1990.github.io"
 #twitter_username: jekyllrb
 github_username:  roch1990
 linkedin_username: roch1990
@@ -33,6 +33,9 @@ telegram: Roch1990
 theme: minima
 plugins:
   - jekyll-feed
+
+# disqus settings
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

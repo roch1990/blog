@@ -83,3 +83,7 @@ message.save_to_db()
 **Давайте подискутируем про это.**
 
 Может я в корне не прав и надо плодить парсеры с декодерами, а колесо называть каталом?
+
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
