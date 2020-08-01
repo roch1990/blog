@@ -36,7 +36,7 @@ plugins:
 
 # disqus settings
 disqus:
-  shortname: roch1990
+  shortname: https-roch1990-github-io
 
 
 # Exclude from processing.
