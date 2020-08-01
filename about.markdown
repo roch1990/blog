@@ -1,18 +1,26 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Фан подхода "Элегантные объекты".
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Профессиональные интересы - качество кодовой базы, тестирование кодовой базы, ci/cd.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Портфолио проектов:
 
+1) Публичные:
 
-[jekyll-organization]: https://github.com/jekyll
+- [peon](https://github.com/roch1990/peon) (python Линтер для проверки соответствия кода EO-принципам)
+- [aiohttp-blog](https://github.com/roch1990/aiohttp-blog) (простой блог на aiohttp)
+- [k8s-experiments](https://github.com/roch1990/k8s-experiments) (экосистема для работы локально с k8s)
+
+2) Приватные:
+
+- enterprise адаптер для платежной системы
+- система обмена данными через SMB
+- docker-обертка для автоматического сжатия данных docker-volume с отправкой в openstack
+- система сбора специализированных метрик с хоста с отправкой в InfluxDB
+- TMS 
+

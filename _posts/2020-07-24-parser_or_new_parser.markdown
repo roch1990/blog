@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Parser или NewParser - вот в чем вопрос"
 date:   2020-07-29
 categories: post
@@ -53,15 +53,20 @@ comments: true
 
 ```python
 decoded_message = Decoder(msg).decode_message()
+
 parsed_message = Parser(msg).parse_xml()
+
 save_to_db(parsed_message)
 ```
 А теперь приведу пример с классом Message:
 
 ```python
 message = XmlMessage(msg)
+
 message.decode()
+
 message.parse()
+
 message.save_to_db()
 ```
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Вам не нужно 100%-е покрытие юнит-тестами"
 date:   2020-07-24
 categories: post
